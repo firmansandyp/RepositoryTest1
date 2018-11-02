@@ -1,6 +1,7 @@
 public class Calculator{
 
 	public Calculator(){
+	
 	}
 
 	public float plus(float a,float b){
